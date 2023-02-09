@@ -1,0 +1,2 @@
+Hello I am writing data in a new file 
+to avoide over-writing use {flag: a+}
